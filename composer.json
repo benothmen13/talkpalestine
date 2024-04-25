@@ -1,0 +1,6 @@
+{
+    "name": "ibrahim/talkpalastina",
+    "require": {
+        "twbs/bootstrap": "5.3.3"
+    }
+}
